@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: 线上 MySQL 数据库密码
+  redis:
+    password: 线上 Redis 数据库密码
